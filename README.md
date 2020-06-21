@@ -1,2 +1,2 @@
 # Note
-something
+[C++](./CPP基础.md)
